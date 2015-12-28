@@ -13,7 +13,7 @@ export GOBO_PACKAGING=`pwd`
 ### Build gobo provided as submodule (sources directory).
 ```sh
 cd $GOBO_PACKAGING/sources
-git submodule update --init --recursive # if no sources code to 
+git submodule update --init --recursive # if no sources code available
 git checkout tags/gobo-3.9
 mkdir bin
 export GOBO=`pwd`
