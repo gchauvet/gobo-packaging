@@ -21,7 +21,7 @@ cd work/bootstrap
 ```
 Please refere to [sources/work/bootstrap/Readme.txt](sources/work/bootstrap/Readme.txt) to see how to bootstrap Gobo.
 
-Check that 6 Gobo tools are present in sources/bin directory :
+Check that 8 Gobo tools are present in sources/bin directory :
 ```sh
 ls $GOBO_PACKAGING/sources/bin/ge*
 ```
